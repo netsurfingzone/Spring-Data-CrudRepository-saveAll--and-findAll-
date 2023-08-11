@@ -2,4 +2,4 @@
 Spring Data CrudRepository saveAll() and findAll()
 
 
-https://www.netsurfingzone.com/hibernate/spring-data-crudrepository-saveall-and-findall/
+https://www.javatute.com/hibernate/spring-data-crudrepository-saveall-and-findall/
